@@ -28,4 +28,4 @@
 
 # Acesse aqui 👇
 
-https://replit.com/@rebcost/snake-game#main.py
+https://replit.com/@rebcost/pong-game#main.py
